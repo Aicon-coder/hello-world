@@ -1,2 +1,3 @@
 # hello-world
-Hello World tutorial
+
+Getting ready to start my coding adventure.
